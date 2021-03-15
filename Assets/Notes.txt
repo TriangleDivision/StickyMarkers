@@ -1,0 +1,4 @@
+Sticky markers
+- Define snapping point transforms and assign marker list (or all) for what it is watching for
+- Range of snapping in-place, and how sticky the snap is
+- Draw only on detection of marker
